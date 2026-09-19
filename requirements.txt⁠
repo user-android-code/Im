@@ -1,4 +1,7 @@
 streamlit
-transformers
 pillow
 numpy
+opencv-python-headless
+torch
+torchvision
+rembg
