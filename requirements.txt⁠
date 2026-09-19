@@ -1,5 +1,5 @@
 streamlit
-torch==2.1.2+cpu
+torch
 transformers
 pillow
 numpy
